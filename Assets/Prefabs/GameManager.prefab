@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7497176331557663735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7497176331557663730}
+  - component: {fileID: 7497176331557663733}
+  - component: {fileID: 7497176331557663732}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7497176331557663730
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7497176331557663735}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7497176331557663733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7497176331557663735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db83ddf22fbd644f9103e9a7e64ec5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topScore: '{"data":{"topScore":[["Farhadzanjani","5226","2"],["kamyar625","4720","1"],["msh4016","3879","0"],["narges7444","3799","3"],["nargesss","3794","5"],["pariya...","3615","10"],["msh1371","3442","0"],["respina","3358","10"],["narges774","3185","0"],["iarezou","3155","6"]]},"code":200}'
+  packageAndStory: "{\"data\":{\"playerGameInfo\":{\"storyBoard\":[10,20,15,14,13,15,25,50,6,14,12,17,18,14,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0],\"challengePacks\":[{\"packId\":\"1\",\"scores\":120,\"name\":\"\u067E\u06A9\u06CC\u062C
+    \u0627\u0648\u0644\",\"image\":\"http://honeypotmarketing.com/wp-content/uploads/google_my_business_direct-link_review.png\"},{\"packId\":\"2\",\"name\":\"\u067E\u06A9\u06CC\u062C
+    \u062F\u0648\u0645\",\"scores\":230,\"image\":\"http://honeypotmarketing.com/wp-content/uploads/google_my_business_direct-link_review.png\"},{\"packId\":\"3\",\"name\":\"\u067E\u06A9\u06CC\u062C
+    \u0633\u0648\u0645\",\"scores\":400,\"image\":\"http://honeypotmarketing.com/wp-content/uploads/google_my_business_direct-link_review.png\"},{\"packId\":\"4\",\"name\":\"\u067E\u06A9\u06CC\u062C
+    \u0686\u0647\u0627\u0631\u0645\",\"scores\":100,\"image\":\"http://honeypotmarketing.com/wp-content/uploads/google_my_business_direct-link_review.png\"}]}},\"code\":200,\"message\":\"player
+    game information recived\"}"
+  panels:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &7497176331557663732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7497176331557663735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b92bb7ef7b229b42922af3f1b1f44d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: d9aab4f4722a20d41b51251982f76335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8345979343683093333
+    second: archerTower
+  - first:
+      213: -3096075918749075543
+    second: castelTower
+  - first:
+      213: -1031461609359061574
+    second: knightTower
+  - first:
+      213: 4275340929581230144
+    second: MoneyStatus
+  - first:
+      213: -7391450280305862978
+    second: PlayBtn
+  - first:
+      213: -7467064533967201946
+    second: towerShield
+  - first:
+      213: 649223268058989734
+    second: Button_0
+  - first:
+      213: 5014873621169431025
+    second: bg_title
+  - first:
+      213: -5806778375675183330
+    second: passed_level
+  - first:
+      213: -1236148182498563351
+    second: passed_level
+  - first:
+      213: 7846153204824492895
+    second: lock_level
+  - first:
+      213: 463424357578638044
+    second: status_level
+  - first:
+      213: 3802091392676919337
+    second: star
+  - first:
+      213: -6095465819584470159
+    second: checkbox_empty
+  - first:
+      213: -5711861071831329883
+    second: ceckbox_normal
+  - first:
+      213: 5878284363919178767
+    second: checkbox_hover
+  - first:
+      213: 6648966873398519637
+    second: checkbox_lock
+  - first:
+      213: 7595635357993749210
+    second: radio_normal
+  - first:
+      213: -7819889247827486089
+    second: radio_hover
+  - first:
+      213: 7273736995990371857
+    second: radio_lock
+  - first:
+      213: 3407876192131828207
+    second: ProgressBar
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archerTower
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 22
+        width: 172
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5157329, y: 0.18922986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ab54fc4e735b84ba3a8d22cb6e8f8c
+      internalID: -8345979343683093333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castelTower
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 16
+        width: 172
+        height: 212
+      alignment: 9
+      pivot: {x: 0.49999857, y: 0.19362769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e07fc947c192d4aa9865a8c61cc76c
+      internalID: -3096075918749075543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightTower
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 19
+        width: 172
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5157329, y: 0.2829863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edd63f4c61479249bd1a447c269856d
+      internalID: -1031461609359061574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyStatus
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1184
+        width: 250
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 62, y: 15, z: 10, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c187be1144f54ca65bfabf3369c56
+      internalID: 4275340929581230144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayBtn
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1417
+        width: 377
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd211105ccb8c1d41ab8bf8392c8515c
+      internalID: -7391450280305862978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towerShield
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2263
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e3c72bd2dfb64da7fcf7420f64a33
+      internalID: -7467064533967201946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_0
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2040
+        width: 309
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5b04084a1f1a143bbaf15a1178d296
+      internalID: 649223268058989734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_title
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 527
+        width: 401
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 20, z: 15, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25322ade5987b5e4ea7334d5e2f35d26
+      internalID: 5014873621169431025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: current_level
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 709
+        width: 99
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 18, z: 12, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1993b912db9df4a4c8a75ec009e15f8f
+      internalID: -5806778375675183330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: passed_level
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 710
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 16, z: 12, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b727668dbaa69f4b8ee9d3741629956
+      internalID: -1236148182498563351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_level
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 712
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 13, z: 10, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e77c335e8001141b556279ddace114
+      internalID: 7846153204824492895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_level
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 661
+        width: 151
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8f7feb5e5ecd49ba4f7989fa51544
+      internalID: 463424357578638044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1056
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32445860ea795418253d77063f5dea
+      internalID: 3802091392676919337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkbox_empty
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 370
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f422852feb80f4288c10eb089ae10d
+      internalID: -6095465819584470159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceckbox_normal
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 369
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce35dbef0fdc2543b3cec2b2552ea33
+      internalID: -5711861071831329883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkbox_hover
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 370
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a1b504ff6f74444840229982fe98d1
+      internalID: 5878284363919178767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkbox_lock
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 370
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3d9b4f5914d04babef6e3077a5d2a
+      internalID: 6648966873398519637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_normal
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 256
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b20d580d15c748904bd160674fbd4
+      internalID: 7595635357993749210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_hover
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 256
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d56b8bd79aafb4fa86a3684d6e1831
+      internalID: -7819889247827486089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_lock
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 256
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b666d893017b67499154c09fe88f1ea
+      internalID: 7273736995990371857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBar
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1776
+        width: 807
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a01a093840feb48b3e242b655507ad
+      internalID: 3407876192131828207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
