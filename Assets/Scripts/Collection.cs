@@ -12,7 +12,9 @@ public class Collection : MonoBehaviour
         login,
         storyBoard,
         packageList,
-        leaderBoard
+        leaderBoard,
+        shop,
+        setting
     }
     public enum LevelStatus
     {

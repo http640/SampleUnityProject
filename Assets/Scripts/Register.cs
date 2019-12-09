@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System;
-
+using SimpleJSON;
 
 public class Register : MonoBehaviour
 {
@@ -25,7 +25,7 @@ public class Register : MonoBehaviour
     public void RegisterUser()
     {
         //Save data form or json
-
+        
     }
     public void RegisterationComplete()
     {

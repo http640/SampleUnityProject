@@ -23,6 +23,78 @@ TextureImporter:
   - first:
       213: 6510785577399796687
     second: back_locked
+  - first:
+      213: 3381310960576851596
+    second: shop_normal
+  - first:
+      213: 2774095843747172564
+    second: shop_hover
+  - first:
+      213: -4932386788168645226
+    second: shop_active
+  - first:
+      213: -4111674851156115605
+    second: shop_lock
+  - first:
+      213: 6660726441788338023
+    second: exit_normal
+  - first:
+      213: 159796571381022511
+    second: exit_hover
+  - first:
+      213: -2824507362016300167
+    second: exit_active
+  - first:
+      213: 5703898201012838136
+    second: exit_lock
+  - first:
+      213: -8579425903949520660
+    second: music_normal
+  - first:
+      213: -4194706433294675736
+    second: music_hover
+  - first:
+      213: 8314957487128392941
+    second: music_active
+  - first:
+      213: -2792576365886034261
+    second: music_off
+  - first:
+      213: 2298459533082549555
+    second: sound_normal
+  - first:
+      213: -3283563490060697053
+    second: sound_hover
+  - first:
+      213: 5457926086003332169
+    second: sound_active
+  - first:
+      213: -4334031867965012447
+    second: sound_off
+  - first:
+      213: -8393243035197522023
+    second: leaderboard_normal
+  - first:
+      213: 6906615268510917579
+    second: leaderboard_hover
+  - first:
+      213: 8832457135060886114
+    second: leaderboard_active
+  - first:
+      213: -8936995945836621773
+    second: leaderboard_deactive
+  - first:
+      213: 7014499283936710004
+    second: setting_normal
+  - first:
+      213: -383607973300503599
+    second: setting_hover
+  - first:
+      213: 8301504749608267564
+    second: setting_active
+  - first:
+      213: 1069049278084910328
+    second: setting_lock
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -122,10 +194,10 @@ TextureImporter:
       name: back_normal
       rect:
         serializedVersion: 2
-        x: 61
-        y: 3928
-        width: 285
-        height: 283
+        x: 65
+        y: 3931
+        width: 275
+        height: 275
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,10 +236,10 @@ TextureImporter:
       name: button_1
       rect:
         serializedVersion: 2
-        x: 1049
-        y: 6887
-        width: 288
-        height: 287
+        x: 1057
+        y: 6889
+        width: 275
+        height: 275
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +257,10 @@ TextureImporter:
       name: LockIcon
       rect:
         serializedVersion: 2
-        x: 2512
-        y: 141
-        width: 293
-        height: 287
+        x: 2520
+        y: 144
+        width: 275
+        height: 275
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,12 +278,12 @@ TextureImporter:
       name: back_hover
       rect:
         serializedVersion: 2
-        x: 380
-        y: 3928
-        width: 286
-        height: 282
+        x: 385
+        y: 3931
+        width: 275
+        height: 275
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +299,12 @@ TextureImporter:
       name: back_clicked
       rect:
         serializedVersion: 2
-        x: 710
-        y: 3928
-        width: 282
-        height: 287
+        x: 714
+        y: 3930
+        width: 275
+        height: 275
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,12 +320,12 @@ TextureImporter:
       name: back_locked
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 3929
-        width: 312
-        height: 285
+        x: 1032
+        y: 3930
+        width: 275
+        height: 275
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -261,6 +333,510 @@ TextureImporter:
       bones: []
       spriteID: bab3df07735b9dd45b8cf99f852c1648
       internalID: 6510785577399796687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_normal
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 4868
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b23365dad7b49140846718e066af8f4
+      internalID: 3381310960576851596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_hover
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 4867
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679b8a77c2489584ca4ede4c12cff4e9
+      internalID: 2774095843747172564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_active
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 4867
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9b73fa5c9fee4b8e54bbbd1bb8bee
+      internalID: -4932386788168645226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_lock
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 4868
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fd439b0ae7564d8a5371bcbb9c2c7
+      internalID: -4111674851156115605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_normal
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1754
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bca9a7ae0c2fd4a997a43dda146f88
+      internalID: 6660726441788338023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_hover
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1754
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdae1729c4d71244d8b85f13c2acfa28
+      internalID: 159796571381022511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_active
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1754
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e60100871af33419989e21c65086fc
+      internalID: -2824507362016300167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_lock
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1754
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e04edbff6b554b813a7432a3a598d
+      internalID: 5703898201012838136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: music_normal
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1108
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e28610e6376914d9718b034875d8b1
+      internalID: -8579425903949520660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: music_hover
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1107
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c5eb95ca484d4eacc23b51ba00ea2
+      internalID: -4194706433294675736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: music_active
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1109
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9268e363265394fa30a027fd246e28
+      internalID: 8314957487128392941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: music_off
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1108
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c9c73532f1972459aa3e61e5042764
+      internalID: -2792576365886034261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_normal
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 774
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faad78eba2885d489b9e5a807c140be
+      internalID: 2298459533082549555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_hover
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 774
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaab4bc0aaae514ea4a2a8a75627e1f
+      internalID: -3283563490060697053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_active
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 774
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a3df08e22f04847a6fd12a4a4b733f
+      internalID: 5457926086003332169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_off
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 773
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8069be4455ff7548994c54a362b3ff3
+      internalID: -4334031867965012447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard_normal
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 140
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1884376acb1954681245051622832a
+      internalID: -8393243035197522023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard_hover
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 140
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac2bf5fe08ef114c9ad3b2fcf76d726
+      internalID: 6906615268510917579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard_active
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 142
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67690d379ba4c0648b28a7e8b204c699
+      internalID: 8832457135060886114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaderboard_deactive
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 141
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd190ca9d90554e8bc46c0e1d9fcb0
+      internalID: -8936995945836621773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setting_normal
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3282
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2290c30f78f56b340ab1d186e360e4e4
+      internalID: 7014499283936710004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setting_hover
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 3282
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5f83b2d7aaac4e866d1c5c3ee07d3
+      internalID: -383607973300503599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setting_active
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 3282
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f651a093cf918e469a620b727d0104c
+      internalID: 8301504749608267564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setting_lock
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 3281
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a49f0f280f1e4ba657d58e49ebc34
+      internalID: 1069049278084910328
       vertices: []
       indices: 
       edges: []

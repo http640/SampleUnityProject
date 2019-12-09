@@ -33,6 +33,7 @@ public class CheckInput : MonoBehaviour
             _required = false;
             _validInput = _namePattern.IsMatch(input.text);
             
+            
         }
         else if(inputType == Collection.InputType.username)
         {
@@ -92,7 +93,7 @@ public class CheckInput : MonoBehaviour
     {
         return true;
     }
-    
+
     public void ShowMassage()
     {
         if(_required && input.text == "") { result.text = Fa.faConvert("پر کردن این فیلد اجباریست!"); }
